@@ -8,7 +8,7 @@
     { name: 'Tracker', url: 'https://tracker.hatstack.fun' },
     { name: 'Writer', url: 'https://writer.hatstack.fun' },
     { name: 'Gemenie Labs', url: 'https://gemenielabs.hatstack.fun' },
-    { name: 'Hold That Thought', url: 'https://showcase-htt.hatstack.fun' },
+    { name: 'Family Archive - Document AI', url: 'https://showcase-htt.hatstack.fun' },
     { name: 'Family', url: 'https://family.hatstack.fun' },
     { name: 'Float', url: 'https://float.hatstack.fun' },
     { name: 'Looper', url: 'https://looper.hatstack.fun' },
